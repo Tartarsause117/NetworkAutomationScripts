@@ -1,4 +1,4 @@
-# NetworkAutomationScripts
+# Network Automation Scripts
 A collection of python scripts written for my programming for network engineer class.
 
 These scripts use netmiko to handle the connection to a cisco switch or router but can also be adjusted to work with other networking devices.
